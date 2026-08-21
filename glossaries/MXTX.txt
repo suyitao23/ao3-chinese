@@ -236,9 +236,11 @@ Guzi = 谷子
 Ban Yue = 半月
 Pei Su = 裴宿
 A-Qiao = 阿昭
-Jian Lan = 魅女剑兰
+Jian Lan = 剑兰
 Heavenly Emperor = 天帝
 Heavenly Officials = 神官
+Nan Feng = 南风
+Fu Yao = 扶摇
 
 // 《天官赐福》——神官/称号
 His Highness the Crown Prince = 太子殿下
